@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
 # File: demo.py
-# Author: Yahui Liu <yahui.cvrs@gmail.com>
 
 import os, cv2
 from pickled import *
